@@ -1,0 +1,6 @@
+---
+applications:
+- name: cloudbait
+  memory: 128M
+  instances: 2
+  host: cloudbait
