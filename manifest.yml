@@ -3,4 +3,5 @@ applications:
 - name: cloudbait
   memory: 128M
   instances: 2
+  buildpack: staticfile_buildpack
   host: cloudbait
